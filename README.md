@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Akshay Kailasa  
+# 👋 Hi, I'm Akshay   
 🚀 **Data Engineer | Python | Spark | Databricks | Azure | AWS**
 
 ### 🌟 About Me  
@@ -33,8 +33,7 @@ I'm a **Data Engineer** with a passion for designing and optimizing **big data s
 ---
 
 ### 📫 Let's Connect!  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akshay.kailasa@gmail.com)  
 [![Website](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://yourwebsite.com)  
 
 ---

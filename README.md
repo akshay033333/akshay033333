@@ -25,8 +25,8 @@ I'm a **Data Engineer** with a passion for designing and optimizing **big data s
 ---
 
 ### 📈 GitHub Stats  
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=tokyonight)  
+![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay033333&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay033333&layout=compact&theme=tokyonight)  
 
 ---
 

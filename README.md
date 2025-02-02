@@ -22,11 +22,6 @@ I'm a **Data Engineer** with a passion for designing and optimizing **big data s
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)  
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)  
 
----
-
-### 📈 GitHub Stats  
-![Akshay's GitHub stats](https://github-readme-stats.vercel.app/api?username=akshay033333&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akshay033333&layout=compact&theme=tokyonight)  
 
 ---
 
